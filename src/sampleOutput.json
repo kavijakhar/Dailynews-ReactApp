@@ -1,0 +1,59 @@
+{
+    "status": "ok",
+    "totalResults": 4,
+    "articles": [
+        {
+            "source": {
+                "id": "reuters",
+                "name": "Reuters"
+            },
+            "author": null,
+            "title": "Musk warns of Twitter bankruptcy as more senior executives quit - Reuters",
+            "description": "Twitter Inc's new owner Elon Musk on Thursday raised the possibility of the social media platform going bankrupt, capping a chaotic day that included a warning from a U.S. privacy regulator and the exit of the company's trust and safety leader.",
+            "url": "https://www.reuters.com/technology/twitter-information-security-chief-kissner-decides-leave-2022-11-10/",
+            "urlToImage": "https://www.reuters.com/resizer/vRGwtk6qlvJBJJceW_mw4KfgINg=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/APX2N5JGARJETNLI7F3OZRDBWY.jpg",
+            "publishedAt": "2022-11-11T06:26:00Z",
+            "content": "Nov 10 (Reuters) - Twitter Inc's new owner Elon Musk on Thursday raised the possibility of the social media platform going bankrupt, capping a chaotic day that included a warning from a U.S. privacy … [+5670 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Krystal Hur",
+            "title": "Goldman Sachs CEO says he expects a 'reopening' in capital markets next year - CNBC",
+            "description": "The initial public offerings market nosedived this year.",
+            "url": "https://www.cnbc.com/2022/11/10/goldman-sachs-ceo-says-he-expects-a-reopening-in-capital-markets-next-year.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/106114173-1567703007328gettyimages-1140232159.jpeg?v=1668129526&w=1920&h=1080",
+            "publishedAt": "2022-11-11T01:18:00Z",
+            "content": "Goldman Sachs CEO David Solomon said Thursday that he expects capital markets to recover in the upcoming months.\r\n\"I think what we're going through at the moment is a reset of valuation expectations,… [+1101 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Gizmodo.com"
+            },
+            "author": "Lauren Leffer",
+            "title": "WeWork Is Closing 40 Offices in a Bid to Actually Make Money - Gizmodo",
+            "description": "More than a year after going public, the real estate company has yet to turn a proft.",
+            "url": "https://gizmodo.com/wework-remote-work-tech-layoffs-1849766720",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/bd8cec4b72e070f13107ef8b242fd89f.jpg",
+            "publishedAt": "2022-11-10T16:30:00Z",
+            "content": "WeWork, the real estate startup that once fooled backers into believing it was a $47 billion tech venture, is downsizing. The co-working company plans to close 40 underperforming locations, according… [+2359 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WTOP"
+            },
+            "author": "John Aaron",
+            "title": "Small cars from Subaru, Kia are flops in new crash test - WTOP",
+            "description": "Subaru’s Crosstrek and Impreza models, along with the Kia Forte, got poor ratings in an updated side crash test from the Insurance Institute for Highway Safety.",
+            "url": "http://wtop.com/consumer-news/2022/11/small-cars-from-subaru-kia-are-flops-in-new-crash-test/",
+            "urlToImage": "https://wtop.com/wp-content/uploads/2022/08/Behind_The_Wheel_5_Vehicles_Easy_on_the_Wallet_80127-scaled.jpg",
+            "publishedAt": "2022-11-10T14:52:27Z",
+            "content": "Some small cars have come up short in a tough new crash test.\r\nSubarus Crosstrek and Impreza models, along with the Kia Forte, got poor ratings in an updated side crash test from the Insurance Instit… [+1447 chars]"
+        }
+        
+    ]
+}
